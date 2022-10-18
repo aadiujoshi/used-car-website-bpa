@@ -1,0 +1,16 @@
+#header-pane{
+    background-color: rgb(10, 78, 143);
+    /* padding: 0%; */
+    height: 1000px;
+    margin: 0%;
+}
+
+#right-menu{
+    position: sticky;
+    top: 5px;
+    /* width: auto;
+    height: auto; */
+
+    right: 20px;
+    left: 100%;
+}
